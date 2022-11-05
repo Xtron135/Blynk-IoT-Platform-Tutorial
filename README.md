@@ -17,6 +17,8 @@ the most basic 'skeleton' for you to write any Blynk IoT program.
 
 Also included here is a pdf tutorial for reference about Blynk IoT basics.
 
+
+
 !!IMPORTANT!!
 
 At the time of writing, Blynk IoT platform only works with ESP32 boards. So dont cry when you already bought ESP8266 because
