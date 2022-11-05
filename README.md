@@ -15,8 +15,9 @@ From the documentaion, you can even find 2 copy of program with the same title f
 In this repo I provide a template, and of course tested and still working as November 2022. This program template should be 
 the most basic 'skeleton' for you to write any Blynk IoT program. 
 
+Also included here is a pdf tutorial for reference about Blynk IoT basics.
+
 !!IMPORTANT!!
+
 At the time of writing, Blynk IoT platform only works with ESP32 boards. So dont cry when you already bought ESP8266 because
 it is cheaper but then its not working with Blynk IoT. Just buy ESP32. XD
-
-Also included here is a pdf tutorial for reference about Blynk IoT basics.
