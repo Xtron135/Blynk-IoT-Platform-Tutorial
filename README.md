@@ -10,12 +10,10 @@ Make sure you know the difference between old and new blink.
 
 In the new Blynk IoT documentaion, there are a lot of confusion in the programs. They didnt update their documentation.
 Some of the program use the old code from Blynk Legacy. And some of them use a new code from Blynk IoT.
-From the documentaion, you can even find 2 copy of program with the same title for example, but with different code entirely.
+From the official website documentaion, you can even find 2 copy of program with the same title for example, but with different code entirely.
 
 In this repo I provide a template, and of course tested and still working as November 2022. This program template should be 
 the most basic 'skeleton' for you to write any Blynk IoT program. 
-
-Also included here is a pdf tutorial for reference about Blynk IoT basics.
 
 
 
